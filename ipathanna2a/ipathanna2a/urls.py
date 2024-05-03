@@ -1,5 +1,5 @@
 """
-URL configuration for ipat2a project.
+URL configuration for ipathanna2a project.
 
 The `urlpatterns` list routes URLs to views. For more information please see:
     https://docs.djangoproject.com/en/5.0/topics/http/urls/

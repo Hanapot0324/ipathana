@@ -1,5 +1,5 @@
 """
-ASGI config for hannaipat2a project.
+ASGI config for ipathanna2a project.
 
 It exposes the ASGI callable as a module-level variable named ``application``.
 
@@ -11,6 +11,6 @@ import os
 
 from django.core.asgi import get_asgi_application
 
-os.environ.setdefault('DJANGO_SETTINGS_MODULE', 'hannaipat2a.settings')
+os.environ.setdefault('DJANGO_SETTINGS_MODULE', 'ipathanna2a.settings')
 
 application = get_asgi_application()

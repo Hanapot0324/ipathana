@@ -1,5 +1,5 @@
 """
-WSGI config for ipat2a project.
+WSGI config for ipathanna2a project.
 
 It exposes the WSGI callable as a module-level variable named ``application``.
 
@@ -11,6 +11,6 @@ import os
 
 from django.core.wsgi import get_wsgi_application
 
-os.environ.setdefault('DJANGO_SETTINGS_MODULE', 'ipat2a.settings')
+os.environ.setdefault('DJANGO_SETTINGS_MODULE', 'ipathanna2a.settings')
 
 application = get_wsgi_application()
